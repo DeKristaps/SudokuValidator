@@ -8,6 +8,6 @@ class Validator
   end
 
   def validate
-    # Your code here
+   puts puzzle_string
   end
 end
